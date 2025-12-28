@@ -25,9 +25,7 @@ Atualmente estou aprendendo e construindo meus primeiros projetos, que em breve 
 ---
 
 ## ✨ Projetos
-
-- Portfólio pessoal com design moderno
--https://crazyopatinho.github.io/Portifolio/
+[portifolio](https://crazyopatinho.github.io/Portifolio/)
 ---
 
 > “Cada linha de código é um passo na jornada.”  
