@@ -26,11 +26,7 @@ Atualmente estou aprendendo e construindo meus primeiros projetos, que em breve 
 
 ## ✨ Em breve por aqui
 
-- Portfólio pessoal com design moderno  
-- Clones de interfaces famosas (Spotify, Netflix, etc)  
-- Componentes reutilizáveis em React  
-- Desafios do Frontend Mentor e DevChallenges  
-
+- Portfólio pessoal com design moderno
 ---
 
 > “Cada linha de código é um passo na jornada.”  
